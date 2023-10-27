@@ -1,6 +1,6 @@
 # Dandelion Cell Analysis
 
-This repository contains several files related to my research project: Advancing single-cell B cell receptor trajectory analysis with absorbing Markov chains.
+This repository contains several files related to my research project: **Advancing single-cell B cell receptor trajectory analysis with absorbing Markov chains.**
 
 - read-data-fetal.ipynb - this notebook was 
 - data-preprocessing.ipynb - this notebook was used to preprocess the fetal scRNA-seq dataset 
